@@ -1,5 +1,4 @@
-
-code and data for the paper:
+Code and Data for the paper:
 
 **"The Proteome Landscape of Replicative Aging:  Spatiotemporal Dynamics Across Cellular Compartments"**
 
